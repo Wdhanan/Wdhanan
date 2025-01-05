@@ -1,5 +1,6 @@
 
-<h2 align="left">I'm Hanan Wandji<br><br>- 🔭 I’m studying computer Science im Master and a huge fan of programming and data science
+<h2 align="left">I'm Hanan Wandji<br><br>- 🔭 I’m studying computer Science in Master with focus on Software Development and Visual Computing. I'm 
+  a huge fan of new technologies, programming, data science, machine learning and always trying to push my limit in other to bring the field forward 😊
 <br>- Portfolio: https://wdhanan.github.io/KnowHanan </h2>
 
 ###
